@@ -65,8 +65,10 @@ steps to reproduce this:
 - laser engrave away the spray paint.
 
 ![New Front](img/new_front.gif "New Front")
+Here a picture that shows the custom front.
 
 
+![Custom front](img/custom_front.jpg "Custom Front")
 
 
 ## Future or To Do
