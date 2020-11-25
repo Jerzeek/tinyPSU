@@ -8,7 +8,7 @@ A short video about the process:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lPeCsuVD0Uc
 " target="_blank"><img src="http://img.youtube.com/vi/lPeCsuVD0Uc/0.jpg" 
-alt="video" width="240" height="180" border="10" /></a>
+alt="video" width="600" border="10" /></a>
 
 ## Background
 This project got started when Brian Lough released [this video](https://youtu.be/Xdq6dzH26QY) He build a simple USB-C Power Delivery bench power supply for just 12 dollar! in the video he shows all the components that you need and how it works (a must see)!
@@ -65,6 +65,7 @@ steps to reproduce this:
 - laser engrave away the spray paint.
 
 ![New Front](img/new_front.gif "New Front")
+
 Here a picture that shows the custom front.
 
 
