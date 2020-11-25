@@ -5,6 +5,7 @@ A €12 portable bench power supply unit (USB C PD)
 
 ## Video
 A short video about the process:
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lPeCsuVD0Uc
 " target="_blank"><img src="http://img.youtube.com/vi/lPeCsuVD0Uc/0.jpg" 
 alt="video" width="240" height="180" border="10" /></a>
@@ -49,6 +50,11 @@ The components you need for this are the following:
 ## 3D models
 all the 3D models and files are made in Fusion360 and can be found [here](https://a360.co/3dzU4cF)
 
+I would recommend this print orentation, total print time on the Prusa Mini is about 6,5hour and can be printed with bed plate only support.
+
+
+![Print orientation](img/print_orientation.png "Print orientation")
+
 ## Custom Front!
 Since I was making this model truely mine I wanted to go the extra mile and also finish of front section of the screen
 steps to reproduce this:
@@ -56,11 +62,15 @@ steps to reproduce this:
 - mask off sections that need to stay clear
 - spray paint the back of the "screen"
 - let it dry
-- laserengrave away the spray paint.
+- laser engrave away the spray paint.
+
+![New Front](img/new_front.gif "New Front")
+
+
 
 
 ## Future or To Do
-- [ ] design can be made parametrick so its easy to adjust to desired size
+- [ ] design can be made parametric so its easy to adjust to desired size
 - [x] modules seem to be roughly the same front panel size so maybe other models would also fit? 
 
 
