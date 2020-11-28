@@ -1,16 +1,32 @@
-#  TinyPSU
+#  TinyPSU ⚡ 
+>Take any USB-C power supply and make it into a high precision, voltage and current control power supply for just 12 euro!
+<br>
+
 ![The tiny psu!](img/tinypsu.png "The tiny psu!")
-A €12 portable bench power supply unit (USB C PD)
 
 
-## Video
+
+## Features 🎁
+- On/off switch
+- Reverse connection protection
+- Over current protection
+- Over power protection
+- Over temperature protection
+- Timeout protection
+- Input and output calibration
+- The USB-C chip inside negotiates for the highest voltage afterwhich it can be set anywhere from 0.5-30 volts.
+
+
+
+
+## Video 🎥
 A short video about the process:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lPeCsuVD0Uc
 " target="_blank"><img src="http://img.youtube.com/vi/lPeCsuVD0Uc/0.jpg" 
 alt="video" width="600" border="10" /></a>
 
-## Background
+## Background 🧠
 This project got started when Brian Lough released [this video](https://youtu.be/Xdq6dzH26QY) He build a simple USB-C Power Delivery bench power supply for just 12 dollar! in the video he shows all the components that you need and how it works (a must see)!
 
 In the video he mentions some improvements of which one was the case design. I headed to the comments and got to work!
@@ -20,19 +36,19 @@ I made a **BASIC** and **ADVANCED** version
 
 
 
-## Basic Version
+## Basic Version 😺
 Basic version houses the same components as in Brian's video.
 It takes 6 hour to print, a slight bit or support material needs to be removed and all components can be slit in place and wired.
 
 
 
-## Advanced Version
+## Advanced Version 🐱‍👤
 The Advanced version contains the same components as the basic version but is screwed together and adds a fan to keep the module cool.
 
 
 
 
-## Components
+## Components 💸
 The components you need for this are the following:
 
 
@@ -47,7 +63,7 @@ The components you need for this are the following:
 | M3 8mm bolt inbus (2x) (only for advanced) | €0.25      | [link]() |
 
 
-## 3D models
+## 3D models 📐
 all the 3D models and files are made in Fusion360 and can be found [here](https://a360.co/3dzU4cF)
 
 I would recommend this print orentation, total print time on the Prusa Mini is about 6,5hour and can be printed with bed plate only support.
@@ -55,7 +71,7 @@ I would recommend this print orentation, total print time on the Prusa Mini is a
 
 ![Print orientation](img/print_orientation.png "Print orientation")
 
-## Custom Front!
+## Custom Front! 🧮
 Since I was making this model truely mine I wanted to go the extra mile and also finish of front section of the screen
 steps to reproduce this:
 - lasercut front panel in clear 0.5mm plastic
@@ -72,7 +88,7 @@ Here a picture that shows the custom front.
 ![Custom front](img/custom_front.jpg "Custom Front")
 
 
-## Future or To Do
+## Future or To Do 🔮
 - [ ] design can be made parametric so its easy to adjust to desired size
 - [x] modules seem to be roughly the same front panel size so maybe other models would also fit? 
 
